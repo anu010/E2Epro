@@ -14,6 +14,7 @@ public class LandingPage {
 	public LandingPage(WebDriver driver) {
 		// TODO Auto-generated constructor stub
 		this.driver = driver;
+		System.out.println("helo");
 	}
 
 
