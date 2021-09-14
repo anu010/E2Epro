@@ -165,6 +165,8 @@
 </dependency>
  
  
+ 			<!-- LOG4J -->
+ 
  	<dependency>
     <groupId>org.apache.logging.log4j</groupId>
     <artifactId>log4j-api</artifactId>
@@ -176,7 +178,16 @@
     <version>2.14.1</version>
   </dependency>
  
-
+			
+			<!-- EXTENT REPORTS -->
+			
+			
+<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.0.8</version>
+</dependency>
 
 	
 	
